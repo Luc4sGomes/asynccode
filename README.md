@@ -1,3 +1,2 @@
-# I KNOW HOW TO PUSH MODIFICATIONS TO GITHUB :) 
-
-# aqui
+# Study about assync Js and Promisses :) 
+# here
