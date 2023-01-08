@@ -1,0 +1,10 @@
+{
+  "nome": "Lucas Gomes",
+  "cidade": "paraiba",
+  "Telefone": 18177838,
+  "Livros_favoritos": ["habits atomics", "clean code"],
+  "hobbies": {
+    "semana": "jogar futebol",
+    "fim_de_semana": "tomar cerveja"
+  }
+}
