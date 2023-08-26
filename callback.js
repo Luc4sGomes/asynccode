@@ -22,5 +22,7 @@ function greeting(name) {
 
 processUserInput(greeting);
 
+console.log("Testing");
+
 
 //finally, callback bassicly is a function being parameter that another function
