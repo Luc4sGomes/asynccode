@@ -1,5 +1,5 @@
 //setTimeout
 
 setTimeout(function () {
-  console.log("I was Executed after 3 seconds");
+  console.log("eu estou executando a mil segundos");
 }, 3000);
